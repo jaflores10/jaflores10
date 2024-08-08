@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on implementing more modular data transformations to ensure clients and internal teams have clean, accurate, and complete data.
 
-⚡ In my spare time, I enjoy getting outdoors with my dog 🐶, surfing 🏄, snowboarding 🏂, skateboarding 🛹, and finding new recipes to cook 👨‍🍳.
+⚡ In my spare time, I enjoy getting outdoors with my dog 🐶, surfing 🏄, snowboarding 🏂, skateboarding 🛹, and finding new recipes to cook 👨‍🍳. I also enjoy creating and iterating on data projects centered around climate 🌲.
 
 📫 How to reach me: Message me on [LinkedIn](https://www.linkedin.com/in/-javier-a-flores/)
 
